@@ -16,10 +16,10 @@ We just need the correct tools, applications and technologies.
 
 <img src="https://i.ibb.co/WGXGCL4/Scheme-drawio-2.png">
 
-- Los sevicios principales que estamos usando es Coinbase Wallet y Rapyd.
-- Coinbase Wallet nos permite firmar transacciones, tanto al mandar mnesajes desde nuestro chat decentralizado o mandar dinero desde el mismo a su vez permite tener acceso a nuestras cryptocurrencies al interaccionar con la Dapp.
-- Rapyd nos permite por su lado, realizar el KYC para utlizar los servicios Fiat y tambien realizar el checkout de nuestro dinero fiat a travez de una tarjeta virtual o transferencia.
-- El Swap es la unica seccion donde coordinamos ambos sevicios para poder intercambiar de cualquiera de las 5 cryptocurrencies disponibles a dinero Fiat.
+- The main services we are using is Coinbase Wallet and Rapyd.
+- Coinbase Wallet allows us to sign transactions, both by sending messages from our decentralized chat or sending money from it, in turn it allows us to have access to our cryptocurrencies when interacting with the Dapp.
+- Rapyd allows us, on your side, to carry out the KYC to use the Fiat services and also to checkout our fiat money through a virtual card or transfer.
+- The Swap is the only section where we coordinate both services to be able to exchange any of the 5 cryptocurrencies available to Fiat money.
 
 # References
 
