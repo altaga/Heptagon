@@ -12,6 +12,15 @@ Nevertheless there are several challenges, an estimated 70% of economic transact
 
 We just need the correct tools, applications and technologies.
 
+# Diagram:
+
+<img src="https://i.ibb.co/WGXGCL4/Scheme-drawio-2.png">
+
+- Los sevicios principales que estamos usando es Coinbase Wallet y Rapyd.
+- Coinbase Wallet nos permite firmar transacciones, tanto al mandar mnesajes desde nuestro chat decentralizado o mandar dinero desde el mismo a su vez permite tener acceso a nuestras cryptocurrencies al interaccionar con la Dapp.
+- Rapyd nos permite por su lado, realizar el KYC para utlizar los servicios Fiat y tambien realizar el checkout de nuestro dinero fiat a travez de una tarjeta virtual o transferencia.
+- El Swap es la unica seccion donde coordinamos ambos sevicios para poder intercambiar de cualquiera de las 5 cryptocurrencies disponibles a dinero Fiat.
+
 # References
 
 https://www.caf.com/en/currently/news/2020/08/inclusion-and-financial-literacy-keys-to-reducing-gaps-in-latin-america-and-the-caribbean/#:~:text=In%20Latin%20America%20and%20the%20Caribbean%2C%20while%20financial%20inclusion%20levels,access%20to%20formal%20financial%20services.
