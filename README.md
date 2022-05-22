@@ -8,4 +8,6 @@ El Salvador’s experiment with Bitcoin has justifiably intrigued much of the fi
 
 Nevertheless there are several challenges, an estimated 70% of economic transactions in Latin America are all cash. And just 50% has bank accounts. But, in contrast 78% has a cellphone with internet connection and among those more than 99% use Instant messenger apps. We think that the region is set to jump this chasm and generate new economies based in these technologies such as the jump several countries had from nothing to mobile phones without passing through landlines.
 
+We just need the correct tools, applications and technologies.
+
 # 
