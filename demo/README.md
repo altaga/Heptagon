@@ -1,46 +1,46 @@
 # Heptagon Demo
 
-Para utilizar nuestra Dapp correctamente, deberas seguir los siguientes pasos.
+To use our Dapp correctly, you must follow the following steps.
 
-- Descarga la aplicacion de Coinbase Wallet en tu celular.
+- Download the Coinbase Wallet app on your cell phone.
   - https://play.google.com/store/apps/details?id=org.toshi&hl=en_US&gl=US
 
-- Una vez tengas la aplicacion abre una wallet en tu celular. No es necesario tener cuenta de coinbase para abrir la wallet.
+- Once you have the application, open a wallet on your cell phone. It is not necessary to have a coinbase account to open the wallet.
 
 <img src="./images/screen1.png" height="400px">
 
-- Ahora ve a la seccion de Dapps, es el icono con 4 cuadros, enmedio de la barra inferior.
+- Now go to the Dapps section, it's the icon with 4 squares, in the middle of the bottom bar.
 
 <img src="./images/screen2.png" height="400px">
 
-- En la pantalla que aparecio, ve a la barra de direcciones y coloca el siguiente URL.
+- On the screen that appeared, go to the address bar and enter the following URL.
 
 LINK: https://main.d23h0ql60ng13v.amplifyapp.com/
 
 <img src="./images/screen3.png" height="400px">
 
-- Al dar enter en el teclado inferior nos abrira la Dapp de Heptagon.
+- By giving enter on the lower keyboard, the Heptagon Dapp will open.
 
 <img src="./images/screen4.png" height="400px">
 
-- Ya en la Dapp primero tendras que hacer login con un usuario y contraseña, en este caso te dejamos uno de testing.
+- Already in the Dapp you will first have to login with a username and password, in this case we leave you a test one.
 
 User: strange@coinbase.com
 
 Pass: toortoor1
 
-- Si tuviste un login satisfactorio, se habilitara el boton de Connect.
+- If you had a successful login, the Connect button will be enabled.
 
 <img src="./images/screen5.png" height="400px">
 
-- Posteriomente al seleccionar el boton de connect nos preguntara a que netowrk deseamos conectarnos.
+- Later, when selecting the connect button, it will ask us to which netwrk we want to connect.
 
 <img src="./images/screen6.png" height="400px">
 
-- Una vez seleccionada la network presionaremos el boton de StartApp.
+- Once the network is selected, press the StartApp button.
 
 <img src="./images/screen7.png" height="400px">
 
-- Y listo ya puedes usar nuestra dapp.
+- And ready you can use our dapp.
 
 <img src="./images/screen8.png" height="400px">
