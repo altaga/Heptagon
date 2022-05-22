@@ -1,6 +1,6 @@
 # Heptagon
 
-Heptagon is a Polygon based DeFi dapp that works in tandem with Coinbase wallet to offer a fiat ramp, cash out and an Instant messenger. 
+Heptagon is a Polygon based DeFi dapp that works in tandem with Coinbase wallet to offer a fiat ramp, cash out and an Instant messenger where you can chat and send tokens and NFTs. 
 
 # Introduction and Problem
 
