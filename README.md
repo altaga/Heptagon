@@ -10,4 +10,8 @@ Nevertheless there are several challenges, an estimated 70% of economic transact
 
 We just need the correct tools, applications and technologies.
 
-# 
+# References
+
+https://www.caf.com/en/currently/news/2020/08/inclusion-and-financial-literacy-keys-to-reducing-gaps-in-latin-america-and-the-caribbean/#:~:text=In%20Latin%20America%20and%20the%20Caribbean%2C%20while%20financial%20inclusion%20levels,access%20to%20formal%20financial%20services.
+
+https://iamericas.org/latin-america-in-crypto-defi-cbdc-blockchain-transition/
