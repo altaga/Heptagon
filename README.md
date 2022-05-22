@@ -1,5 +1,7 @@
 # Heptagon
 
+Heptagon is a Polygon based DeFi dapp that works in tandem with Coinbase wallet to offer a fiat ramp, cash out and an Instant messenger. 
+
 # Introduction and Problem
 
 Over the last decade, most economies in Latin America and the Caribbean have displayed sustained growth and macroeconomic stability leading to the emergence of growing middle classes. Despite these advances, poverty and inequality levels remain high and financial exclusion still affects important sectors of the population, which can hinder future economic and social development.
