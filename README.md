@@ -2,7 +2,7 @@
 
 # Introduction and Problem
 
-Over the last decade, most economies in Latin America and the Caribbean have displayed sustained growth and macroeconomic stability leading to the emergence of growing middle classes. Despite these advances, poverty and inequality levels remain high and financial exclusion still affects important sectors of both the urban and the rural population, which can hinder future economic and social development.
+Over the last decade, most economies in Latin America and the Caribbean have displayed sustained growth and macroeconomic stability leading to the emergence of growing middle classes. Despite these advances, poverty and inequality levels remain high and financial exclusion still affects important sectors of the population, which can hinder future economic and social development.
 
 El Salvador’s experiment with Bitcoin has justifiably intrigued much of the financial world. That focus might be missing the much larger story. Regardless of the outcome of El Salvador’s cryptocurrency venture, mobile phones, fintech, DeFi, blockchain technology, and cryptocurrency, are poised to dramatically alter banking and commerce, and potentially economic stability, throughout the region.
 
